@@ -147,8 +147,8 @@ a:focus {
 }
 
 .main-point-icon {
-    width: 64px;
-    height: 64px;
+    width: 64;
+    height: 64;
 }
 
 
@@ -276,9 +276,14 @@ a:focus {
 }
 
 .social-icons {
+    width: 16;
+    height: 16;
+    fill: #f4f4fd;
+}
+
+.socials-icons {
     width: 24;
     height: 24;
-    fill: #f4f4fd;
 }
 .socials-icons-wrapper {
     display: flex;
