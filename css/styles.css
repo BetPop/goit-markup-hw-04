@@ -274,8 +274,7 @@ a:focus {
     color: #fff;
     margin-bottom: 16px;
 }
-
-svg .team-socials-icons {
+.team-socials-icons {
     width: 16;
     height: 16;
     fill: #f4f4fd;
@@ -285,7 +284,7 @@ svg .team-socials-icons {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-svg .f-socials-icons {
+.f-socials-icons {
     width: 24;
     height: 24;
     fill: #f4f4fd;
