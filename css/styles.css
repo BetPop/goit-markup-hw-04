@@ -358,7 +358,7 @@ a:focus {
 }
 
 .section-team {
-    background-color: var(--footer-white-cl);
+    background-color: var(--footer-white-cl), #f4f4fd;
     padding: 120px 0px;
 }
 
