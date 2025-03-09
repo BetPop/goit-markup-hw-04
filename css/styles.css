@@ -265,7 +265,6 @@ a:focus {
 
 .footer-wrapper {
     display: flex;
-    gap: 120px;
     align-items: baseline;
 }
 
@@ -358,7 +357,7 @@ a:focus {
 }
 
 .section-team {
-    background-color: var(--footer-white-cl), #f4f4fd;
+    background-color: var(--footer-white-cl);
     padding: 120px 0px;
 }
 
